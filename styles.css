@@ -19,3 +19,9 @@ h1
     background: rgb(244, 22, 22);
     border-radius: 25%;
 }
+
+img
+{
+    width: 300px;
+    height: auto;
+}
