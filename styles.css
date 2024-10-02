@@ -1,8 +1,21 @@
-body {
+body 
+{
     background-color:beige;
     font-family: Arial, Helvetica, sans-serif;
 }
-h1 {
+
+h1 
+{
     text-align: center;
     color:blue;
+}
+
+.projects { display:flex; flex-wrap:wrap; } 
+.project
+{
+    width: 30%;
+    margin: 10px;
+    padding: 20px 10px;
+    background: rgb(244, 22, 22);
+    border-radius: 25%;
 }
