@@ -25,7 +25,6 @@ img
     width: 300px;
     height: auto;
 }
-
 .project img
 {
     width: 300px;
@@ -37,7 +36,8 @@ img
 }
 
 a 
-{ /* change the appearance of ALL links */
+{ 
+    /* change the appearance of ALL links */
     text-decoration: none;
     color: rgb(126, 219, 248);
 }
