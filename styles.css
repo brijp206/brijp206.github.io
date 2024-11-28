@@ -114,7 +114,7 @@ a
     margin: 20px auto; /* Center the block and add spacing */
     padding: 10px 20px; /* Add padding for visual spacing */
     max-width: 600px; /* Limit the width of the contact info container */
-    background-color: #fff; /* Optional: Add a background color for contrast */
+    background-color: rgb(128, 20, 4); /* Optional: Add a background color for contrast */
     border: 2px solid rgb(128, 20, 4); /* Optional: Add a border */
     border-radius: 10px; /* Optional: Round the corners */
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Optional: Add a subtle shadow */
