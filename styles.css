@@ -99,3 +99,35 @@ a
     border-radius: 25%;
     border: 2px solid rgb(128, 20, 4);
 }
+
+.resume-link {
+    display: flex; 
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    text-align: center; /* Ensure text inside is centered */
+    margin: 20px auto; /* Center the block itself and add some spacing */
+    font-size: 1.2em; /* Optional: Adjust font size for emphasis */
+}
+
+.contact {
+    text-align: center; /* Center-align the contact info */
+    margin: 20px auto; /* Center the block and add spacing */
+    padding: 10px 20px; /* Add padding for visual spacing */
+    max-width: 600px; /* Limit the width of the contact info container */
+    background-color: #fff; /* Optional: Add a background color for contrast */
+    border: 2px solid rgb(128, 20, 4); /* Optional: Add a border */
+    border-radius: 10px; /* Optional: Round the corners */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Optional: Add a subtle shadow */
+    font-size: 1em; /* Adjust font size */
+    line-height: 1.5; /* Increase line height for readability */
+}
+
+.contact a {
+    color: rgb(126, 219, 248); /* Match the theme color for links */
+    text-decoration: none; /* Remove underline from links */
+    font-weight: bold; /* Make links stand out */
+}
+
+.contact a:hover {
+    text-decoration: underline; /* Add underline on hover for links */
+}
